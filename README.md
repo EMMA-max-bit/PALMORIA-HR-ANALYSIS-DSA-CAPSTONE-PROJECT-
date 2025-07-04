@@ -33,7 +33,7 @@ The overall gender distribution within the Palmoria Group reveals the proportion
 Further breakdown of gender distribution by region highlights how male and female employees are represented in Abuja, Kaduna, and Lagos. This regional perspective is crucial for identifying localized imbalances[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Gender%20distribution%20by%20dept.gif)
 
 ### 3.1.3 Gender Distribution by Department
-An in-depth look at gender distribution across various departments provides granular insights into which specific areas might be predominantly male or female, indicating potential areas for targeted intervention.
+An in-depth look at gender distribution across various departments provides granular insights into which specific areas might be predominantly male or female, indicating potential areas for targeted intervention.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Gender%20distribution%20by%20dept.gif)
 
 ### 3.2 Employee Ratings by Gender
 Analyzing performance ratings by gender helps to ascertain if there are any systemic biases in how employees are evaluated. This is a critical step in addressing potential inequalities beyond just representation.
