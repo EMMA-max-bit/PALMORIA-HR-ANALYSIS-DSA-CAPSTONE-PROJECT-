@@ -46,7 +46,7 @@ This analysis directly addresses the presence of a gender pay gap by comparing t
 To identify specific departments where a gender pay gap might be more pronounced, average salaries are further broken down by department and gender. This helps in pinpointing areas that require immediate attention.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Average%20salary%20by%20Dept.gif)
 
 ### 3.3.3 Average Salary by Region and Gender
-Similarly, examining average salaries by region and gender helps to understand if geographical location plays a role in salary disparities between male and female employees.
+Similarly, examining average salaries by region and gender helps to understand if geographical location plays a role in salary disparities between male and female employees.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/AVE%20SALARY%20BY%20REG%20AND%20GENDER.gif)
 
 ### 3.4 Salary Distribution and Minimum Wage Compliance
 ### 3.4.1 Compliance with $90,000 Minimum Salary
