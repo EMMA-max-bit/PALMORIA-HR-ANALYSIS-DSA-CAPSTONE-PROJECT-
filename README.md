@@ -62,6 +62,8 @@ Further segmenting the salary bands by region allows for the identification of r
 ### 3.5.1 Total Amount Paid (Salary + Bonus) by Region
 This analysis provides an overview of the total financial outlay for employees, including both salary and bonus, across different regions. This can be useful for budget planning and understanding regional compensation trends
 
+### Dashboard [Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/PALMOARIA%20DASHBOARD.gif)
+
 ### 4. Recommendations Analytical Insights
 Based on the findings presented in this analysis, the following recommendations are proposed to the Palmoria Group management to address the identified issues and foster a more equitable and compliant HR environment:
 #### 1.Conduct a Deeper Dive into Gender Pay Gaps:
