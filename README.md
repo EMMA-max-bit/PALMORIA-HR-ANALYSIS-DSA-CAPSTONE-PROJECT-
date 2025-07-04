@@ -56,7 +56,7 @@ An important aspect of this analysis is to determine if the Palmoria Group compl
 To provide a clearer picture of the salary landscape, employee salaries are grouped into $10,000 bands. This visualization helps in understanding the concentration of employees at different income levels.
 
 ### 3.4.3 Salary Distribution by $10,000 Bands and Region
-Further segmenting the salary bands by region allows for the identification of regional variations in salary distribution, which can inform localized policy adjustments.
+Further segmenting the salary bands by region allows for the identification of regional variations in salary distribution, which can inform localized policy adjustments.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/SALARY%20BAND%20BY%20REGION.gif)
 
 ### 3.5 Total Compensation Analysis
 ### 3.5.1 Total Amount Paid (Salary + Bonus) by Region
