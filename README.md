@@ -43,7 +43,7 @@ Analyzing performance ratings by gender helps to ascertain if there are any syst
 This analysis directly addresses the presence of a gender pay gap by comparing the average salaries of male and female employees across the entire Palmoria Group.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/AVE%20SALARY%20BY%20GENDER.gif)
 
 ### 3.3.2 Average Salary by Department and Gender
-To identify specific departments where a gender pay gap might be more pronounced, average salaries are further broken down by department and gender. This helps in pinpointing areas that require immediate attention.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/AVE%20SALARY%20BY%20REG%20AND%20GENDER.gif)
+To identify specific departments where a gender pay gap might be more pronounced, average salaries are further broken down by department and gender. This helps in pinpointing areas that require immediate attention.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Average%20salary%20by%20Dept.gif)
 
 ### 3.3.3 Average Salary by Region and Gender
 Similarly, examining average salaries by region and gender helps to understand if geographical location plays a role in salary disparities between male and female employees.
