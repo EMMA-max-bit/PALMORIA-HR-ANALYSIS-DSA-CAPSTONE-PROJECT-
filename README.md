@@ -30,7 +30,7 @@ This section presents the key findings from the HR data analysis, supported by v
 The overall gender distribution within the Palmoria Group reveals the proportion of male and female employees across the entire organization. This initial view provides a high-level understanding of the workforce composition.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Overall%20gender%20employee.gif)
  
 ### 3.1.2 Gender Distribution by Region
-Further breakdown of gender distribution by region highlights how male and female employees are represented in Abuja, Kaduna, and Lagos. This regional perspective is crucial for identifying localized imbalances.
+Further breakdown of gender distribution by region highlights how male and female employees are represented in Abuja, Kaduna, and Lagos. This regional perspective is crucial for identifying localized imbalances[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Gender%20distribution%20by%20dept.gif)
 
 ### 3.1.3 Gender Distribution by Department
 An in-depth look at gender distribution across various departments provides granular insights into which specific areas might be predominantly male or female, indicating potential areas for targeted intervention.
