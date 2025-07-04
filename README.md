@@ -36,7 +36,7 @@ Further breakdown of gender distribution by region highlights how male and femal
 An in-depth look at gender distribution across various departments provides granular insights into which specific areas might be predominantly male or female, indicating potential areas for targeted intervention.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Gender%20distribution%20by%20dept.gif)
 
 ### 3.2 Employee Ratings by Gender
-Analyzing performance ratings by gender helps to ascertain if there are any systemic biases in how employees are evaluated. This is a critical step in addressing potential inequalities beyond just representation.
+Analyzing performance ratings by gender helps to ascertain if there are any systemic biases in how employees are evaluated. This is a critical step in addressing potential inequalities beyond just representation.[Download here](https://github.com/EMMA-max-bit/PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT-/blob/main/Empoyee%20rating%20by%20gender.gif)
 
 ### 3.3 Salary Structure and Gender Pay Gap
 ### 3.3.1 Average Salary by Gender
