@@ -1,5 +1,10 @@
 ## PALMORIA-HR-ANALYSIS-DSA-CAPSTONE-PROJECT
 
+## Acknowledgement
+I would like to express my sincere gratitude to God Almighty for His grace and strength that enabled me to successfully complete this programme.
+Special thanks go to my tutors and erudite data analytics wizards, Mr Temidayo TeeDee AYENI, Mr Femi Ayodele,and Mr Mushin whose tireless support and dedication contributed immensely to this achievement. My appreciation also goes to the entire staff of Digital Skillup Africa (DSA). I also owned my appreciation to Squad 2 Captain of Data Analytics Mr. Ayooluwa Arinde and my students’ colleagues for their prayers and encouragement.
+Finally, I extend my heartfelt appreciation to the CEO and the entire team at TeamO Digital Solutions for their unwavering support in ensuring I completed this programme.
+
 ### 1.0 Executive Summary
 This report presents a comprehensive HR analytics study for the Palmoria Group, a manufacturing company based in Nigeria. The primary objective of this analysis is to address concerns regarding gender inequality across its three regions in Abuja, Kaduna and Lagos. Leveraging the provided HR data, this study focuses on key areas such as gender distribution, performance ratings, salary structure, and compliance with minimum wage regulations. The insights derived from this analysis aim to provide actionable recommendations to the Palmoria Group's management for fostering a more equitable and inclusive workplace.
 ### 1. Introduction
